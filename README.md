@@ -29,7 +29,13 @@
 <a href="https://instagram.com/endingcreeper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endingcreeper" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endingcreeper" alt="endingcreeper" /></a> </p>
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endingcreeper&show_icons=true&locale=en&layout=compact" alt="endingcreeper" /></p>
 
@@ -38,17 +44,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endingcreeper&" alt="endingcreeper" /></p>
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/EndingCreeper"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/endingcreeper"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
 
 
