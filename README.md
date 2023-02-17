@@ -15,11 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/EndingCreeper/](https://GitHub.com/EndingCreeper/)
 
-- 📝 I regularly write articles on [https://EndingCreeper.github.io](https://EndingCreeper.github.io)
+- 📝 I regularly write articles on [https://endingcreeper.dev/](https://endingcreeper.dev/)
 
 - 📫 How to reach me **endingcreeper7@gmail.com**
-
-- 📄 Know about my experiences [https://endingcreeper.io](https://endingcreeper.io)
 
 - ⚡ Fun fact **I think I am Funny...**
 
