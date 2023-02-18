@@ -32,8 +32,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://raw.githubusercontent.com/naemazam/naemazam/main/img/c.png">
-        <img src="[""] width="48" height="48" alt="#" />
+      <a href="#">
+        <img src="["./img/c.png"] width="48" height="48" alt="#" />
       </a>
       <br>IT Support Proffetional
     </td>
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
+        <img src="./img/RedHat.png" width="48" height="48" alt="c" />
       </a>
       <br>Linux System Administration
     </td>
