@@ -33,7 +33,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="["/google.png"] width="48" height="48" alt="#" />
+        <img src="/google.png" width="48" height="48" alt="google" />
       </a>
       <br>IT Support Proffetional
     </td>
