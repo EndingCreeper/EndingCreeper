@@ -27,6 +27,39 @@
 <a href="https://instagram.com/endingcreeper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endingcreeper" height="30" width="40" /></a>
 </p>
 
+>Professional Certificates
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/google.png" width="48" height="48" alt="#" />
+      </a>
+      <br>IT Support Proffetional
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/google.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>IT Automation with Python Professional
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
+      </a>
+      <br>CompTIA Network+
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>Linux System Administration
+    </td>
+     </tr>
+</table>
+
+
+
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
