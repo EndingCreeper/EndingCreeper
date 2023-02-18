@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/RedHat.png" width="48" height="48" alt="c" />
+        <img src="/RedHat.png" width="60" height="48" alt="c" />
       </a>
       <br>Linux System Administration
     </td>
