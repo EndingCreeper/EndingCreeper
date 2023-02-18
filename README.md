@@ -32,8 +32,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="["](https://raw.githubusercontent.com/naemazam/naemazam/main/img/c.png)" width="48" height="48" alt="#" />
+      <a href="https://raw.githubusercontent.com/naemazam/naemazam/main/img/c.png">
+        <img src="[""] width="48" height="48" alt="#" />
       </a>
       <br>IT Support Proffetional
     </td>
